@@ -19,3 +19,18 @@ Banorte
 Inbursa
 
 Santander
+
+
+## Scouting/Benckmarking
+https://www.marketwatch.com/tools/mutual-fund/screener
+https://finance.yahoo.com/screener/mutualfund/new
+http://screen.morningstar.com/fundselectoraol.html
+https://mutualfunds.com/screener/
+https://research.tdameritrade.com/grid/public/mutualfunds/profile/portfolioBuffer.asp?symbol=PEDIX&fromPage=portfolioBuffer&display=&fromSearch=true
+https://www.wsj.com/market-data/mutualfunds-etfs/screener
+https://www.zacks.com/screening/mutual-fund-screener
+https://www.fundvisualizer.com/how-to-compare/mutual-funds/screener.html
+https://money.usnews.com/funds/mutual-funds/rankings/long-government
+
+## Construcción de Portafolios
+https://web.wpi.edu/Pubs/ETD/Available/etd-080614-144242/unrestricted/Chen,_Huanting_PCA_2014-07-31_FINAL_VERSION.pdf
