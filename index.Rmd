@@ -3,9 +3,9 @@ title: "Fondos de Inversion"
 output: html_document
 ---
 
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE)
-```
+
 # Fondos
+
+Este archivo se usa para fondos.
 
 ## Subtitulo
